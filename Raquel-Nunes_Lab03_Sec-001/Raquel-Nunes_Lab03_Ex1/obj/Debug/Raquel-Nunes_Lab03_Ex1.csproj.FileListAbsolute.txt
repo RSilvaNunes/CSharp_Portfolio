@@ -1,0 +1,10 @@
+C:\Users\Raquel&Roberto\Desktop\Raquel-Nunes_Lab03_Sec-001\Raquel-Nunes_Lab03_Ex1\bin\Debug\Raquel-Nunes_Lab03_Ex1.exe.config
+C:\Users\Raquel&Roberto\Desktop\Raquel-Nunes_Lab03_Sec-001\Raquel-Nunes_Lab03_Ex1\bin\Debug\Raquel-Nunes_Lab03_Ex1.exe
+C:\Users\Raquel&Roberto\Desktop\Raquel-Nunes_Lab03_Sec-001\Raquel-Nunes_Lab03_Ex1\bin\Debug\Raquel-Nunes_Lab03_Ex1.pdb
+C:\Users\Raquel&Roberto\Desktop\Raquel-Nunes_Lab03_Sec-001\Raquel-Nunes_Lab03_Ex1\obj\Debug\Raquel-Nunes_Lab03_Ex1.csprojResolveAssemblyReference.cache
+C:\Users\Raquel&Roberto\Desktop\Raquel-Nunes_Lab03_Sec-001\Raquel-Nunes_Lab03_Ex1\obj\Debug\Raquel_Nunes_Lab03_Ex1.Form1.resources
+C:\Users\Raquel&Roberto\Desktop\Raquel-Nunes_Lab03_Sec-001\Raquel-Nunes_Lab03_Ex1\obj\Debug\Raquel_Nunes_Lab03_Ex1.Properties.Resources.resources
+C:\Users\Raquel&Roberto\Desktop\Raquel-Nunes_Lab03_Sec-001\Raquel-Nunes_Lab03_Ex1\obj\Debug\Raquel-Nunes_Lab03_Ex1.csproj.GenerateResource.Cache
+C:\Users\Raquel&Roberto\Desktop\Raquel-Nunes_Lab03_Sec-001\Raquel-Nunes_Lab03_Ex1\obj\Debug\Raquel-Nunes_Lab03_Ex1.csproj.CoreCompileInputs.cache
+C:\Users\Raquel&Roberto\Desktop\Raquel-Nunes_Lab03_Sec-001\Raquel-Nunes_Lab03_Ex1\obj\Debug\Raquel-Nunes_Lab03_Ex1.exe
+C:\Users\Raquel&Roberto\Desktop\Raquel-Nunes_Lab03_Sec-001\Raquel-Nunes_Lab03_Ex1\obj\Debug\Raquel-Nunes_Lab03_Ex1.pdb

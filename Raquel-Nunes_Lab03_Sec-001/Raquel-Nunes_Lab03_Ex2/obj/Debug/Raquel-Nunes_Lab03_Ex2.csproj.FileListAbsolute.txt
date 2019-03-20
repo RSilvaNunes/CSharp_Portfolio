@@ -1,0 +1,9 @@
+C:\Users\Raquel&Roberto\Desktop\Raquel-Nunes_Lab03_Sec-001\Raquel-Nunes_Lab03_Ex2\bin\Debug\Raquel-Nunes_Lab03_Ex2.exe.config
+C:\Users\Raquel&Roberto\Desktop\Raquel-Nunes_Lab03_Sec-001\Raquel-Nunes_Lab03_Ex2\bin\Debug\Raquel-Nunes_Lab03_Ex2.exe
+C:\Users\Raquel&Roberto\Desktop\Raquel-Nunes_Lab03_Sec-001\Raquel-Nunes_Lab03_Ex2\bin\Debug\Raquel-Nunes_Lab03_Ex2.pdb
+C:\Users\Raquel&Roberto\Desktop\Raquel-Nunes_Lab03_Sec-001\Raquel-Nunes_Lab03_Ex2\bin\Debug\LinkedList.dll
+C:\Users\Raquel&Roberto\Desktop\Raquel-Nunes_Lab03_Sec-001\Raquel-Nunes_Lab03_Ex2\bin\Debug\LinkedList.pdb
+C:\Users\Raquel&Roberto\Desktop\Raquel-Nunes_Lab03_Sec-001\Raquel-Nunes_Lab03_Ex2\obj\Debug\Raquel-Nunes_Lab03_Ex2.csprojResolveAssemblyReference.cache
+C:\Users\Raquel&Roberto\Desktop\Raquel-Nunes_Lab03_Sec-001\Raquel-Nunes_Lab03_Ex2\obj\Debug\Raquel-Nunes_Lab03_Ex2.csproj.CoreCompileInputs.cache
+C:\Users\Raquel&Roberto\Desktop\Raquel-Nunes_Lab03_Sec-001\Raquel-Nunes_Lab03_Ex2\obj\Debug\Raquel-Nunes_Lab03_Ex2.exe
+C:\Users\Raquel&Roberto\Desktop\Raquel-Nunes_Lab03_Sec-001\Raquel-Nunes_Lab03_Ex2\obj\Debug\Raquel-Nunes_Lab03_Ex2.pdb
