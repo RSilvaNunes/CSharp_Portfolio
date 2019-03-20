@@ -10,3 +10,6 @@ The file Raquel-da-Silva-Nunes_Lab-1B_Sec001 contains 4 solved exercises using G
 - 2nd exercise: Overloading a Generic Method
 - 3rd exercise: LinkedList - Add, Remove, Print, Search, and RemoveAll
 - 4th exercise: SortedDictionary - Add, Remove, Print, Search, and MaxItem
+
+------------------------------------------------------------------------------------------------------------------------------------------
+The download of the documents herein provided does not grant any reproduction rights of any kind. The content of this repository is for showcase purposes only.
