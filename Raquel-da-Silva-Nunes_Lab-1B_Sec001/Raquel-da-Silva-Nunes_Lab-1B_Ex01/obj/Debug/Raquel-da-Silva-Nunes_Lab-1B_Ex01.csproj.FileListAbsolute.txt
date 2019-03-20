@@ -1,0 +1,20 @@
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex01\bin\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex01.exe.config
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex01\bin\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex01.exe
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex01\bin\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex01.pdb
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex01\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex01.csprojResolveAssemblyReference.cache
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex01\obj\Debug\Raquel_da_Silva_Nunes_Lab_1B_Ex01.Form1.resources
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex01\obj\Debug\Raquel_da_Silva_Nunes_Lab_1B_Ex01.Properties.Resources.resources
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex01\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex01.csproj.GenerateResource.Cache
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex01\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex01.csproj.CoreCompileInputs.cache
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex01\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex01.exe
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex01\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex01.pdb
+C:\Users\Raquel&Roberto\Desktop\4th Semester\Subjects\2. Programming 3\Labs\Lab 2\Lab 1B\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex01\bin\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex01.exe.config
+C:\Users\Raquel&Roberto\Desktop\4th Semester\Subjects\2. Programming 3\Labs\Lab 2\Lab 1B\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex01\bin\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex01.exe
+C:\Users\Raquel&Roberto\Desktop\4th Semester\Subjects\2. Programming 3\Labs\Lab 2\Lab 1B\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex01\bin\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex01.pdb
+C:\Users\Raquel&Roberto\Desktop\4th Semester\Subjects\2. Programming 3\Labs\Lab 2\Lab 1B\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex01\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex01.csprojResolveAssemblyReference.cache
+C:\Users\Raquel&Roberto\Desktop\4th Semester\Subjects\2. Programming 3\Labs\Lab 2\Lab 1B\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex01\obj\Debug\Raquel_da_Silva_Nunes_Lab_1B_Ex01.Form1.resources
+C:\Users\Raquel&Roberto\Desktop\4th Semester\Subjects\2. Programming 3\Labs\Lab 2\Lab 1B\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex01\obj\Debug\Raquel_da_Silva_Nunes_Lab_1B_Ex01.Properties.Resources.resources
+C:\Users\Raquel&Roberto\Desktop\4th Semester\Subjects\2. Programming 3\Labs\Lab 2\Lab 1B\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex01\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex01.csproj.GenerateResource.Cache
+C:\Users\Raquel&Roberto\Desktop\4th Semester\Subjects\2. Programming 3\Labs\Lab 2\Lab 1B\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex01\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex01.csproj.CoreCompileInputs.cache
+C:\Users\Raquel&Roberto\Desktop\4th Semester\Subjects\2. Programming 3\Labs\Lab 2\Lab 1B\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex01\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex01.exe
+C:\Users\Raquel&Roberto\Desktop\4th Semester\Subjects\2. Programming 3\Labs\Lab 2\Lab 1B\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex01\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex01.pdb

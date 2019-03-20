@@ -1,0 +1,7 @@
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex_02\bin\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex_02.exe.config
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex_02\bin\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex_02.exe
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex_02\bin\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex_02.pdb
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex_02\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex02.csprojResolveAssemblyReference.cache
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex_02\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex02.csproj.CoreCompileInputs.cache
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex_02\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex_02.exe
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex_02\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex_02.pdb

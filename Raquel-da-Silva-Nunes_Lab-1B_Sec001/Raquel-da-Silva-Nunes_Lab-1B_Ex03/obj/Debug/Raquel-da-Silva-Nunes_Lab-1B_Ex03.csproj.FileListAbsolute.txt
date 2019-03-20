@@ -1,0 +1,14 @@
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex03\bin\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex03.exe.config
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex03\bin\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex03.exe
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex03\bin\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex03.pdb
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex03\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex03.csprojResolveAssemblyReference.cache
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex03\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex03.csproj.CoreCompileInputs.cache
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex03\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex03.exe
+C:\Users\Raquel&Roberto\Desktop\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex03\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex03.pdb
+C:\Users\Raquel&Roberto\Desktop\4th Semester\Subjects\2. Programming 3\Labs\Lab 2\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex03\bin\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex03.exe.config
+C:\Users\Raquel&Roberto\Desktop\4th Semester\Subjects\2. Programming 3\Labs\Lab 2\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex03\bin\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex03.exe
+C:\Users\Raquel&Roberto\Desktop\4th Semester\Subjects\2. Programming 3\Labs\Lab 2\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex03\bin\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex03.pdb
+C:\Users\Raquel&Roberto\Desktop\4th Semester\Subjects\2. Programming 3\Labs\Lab 2\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex03\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex03.csprojResolveAssemblyReference.cache
+C:\Users\Raquel&Roberto\Desktop\4th Semester\Subjects\2. Programming 3\Labs\Lab 2\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex03\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex03.csproj.CoreCompileInputs.cache
+C:\Users\Raquel&Roberto\Desktop\4th Semester\Subjects\2. Programming 3\Labs\Lab 2\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex03\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex03.exe
+C:\Users\Raquel&Roberto\Desktop\4th Semester\Subjects\2. Programming 3\Labs\Lab 2\Raquel-da-Silva-Nunes_Lab-1B_Sec001\Raquel-da-Silva-Nunes_Lab-1B_Ex03\obj\Debug\Raquel-da-Silva-Nunes_Lab-1B_Ex03.pdb
